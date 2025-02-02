@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
@@ -13,18 +12,18 @@ function App() {
                 <div className="quoteby">- Cristiano Ronaldo</div>
             </div>
             <div className="aboutme">
-                <div className="heading">About</div>I'm Sagar Mishra, currently
-                a Computer Science undergraduate at VNIT Nagpur. I have skills
-                in <em>Python</em>, <em>C</em>, <em>C++</em>, <em>Java</em>,{" "}
-                <em>HTML5</em>/<em>CSS3</em>/<em>SCSS</em>, <em>JavaScript</em>,{" "}
-                <em>ReactJS</em>, <em>NodeJS</em>, <em>MongoDB</em>,{" "}
-                <em>MySQL</em>. I like being fit. I like playing football,
-                cricket, running or any sport. Personalities I admire the most
-                are Cristiano Ronaldo, Srinivasa Ramanujan, Alan Turing. I'm a
-                music lover and I also like singing, but you will not want me to
-                sing for you or will you 😉 ? I'm not fond of watching TV series
-                but I liked some of them, namely Sherlock, Rick and Morty,
-                Dragon Ball Series.
+                <div className="heading">About</div>
+                I'm Sagar Mishra, currently a Computer Science undergraduate at
+                VNIT Nagpur. I have skills in <em>Python</em>, <em>C</em>,{" "}
+                <em>C++</em>, <em>Java</em>, <em>HTML5</em>/<em>CSS3</em>/
+                <em>SCSS</em>, <em>JavaScript</em>, <em>ReactJS</em>,{" "}
+                <em>NodeJS</em>, <em>MongoDB</em>, <em>MySQL</em>. I like being
+                fit. I like playing football, cricket, running or any sport.
+                Personalities I admire the most are Cristiano Ronaldo, Srinivasa
+                Ramanujan, Alan Turing. I'm a music lover and I also like
+                singing, but you will not want me to sing for you or will you 😉
+                ? I'm not fond of watching TV series but I liked some of them,
+                namely Sherlock, Rick and Morty, Dragon Ball Series.
             </div>
             <div className="projects">
                 <div className="heading">Projects</div>
