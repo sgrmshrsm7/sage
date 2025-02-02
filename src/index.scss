@@ -1,7 +1,8 @@
 @font-face {
     font-family: "PT Serif";
-    src: url(/public/pt-serif-v12-latin-regular.04341d21.woff) format("woff"),
-        url(/public/pt-serif-v12-latin-regular.751bb457.ttf) format("truetype");
+    src: url(../public/pt-serif-v12-latin-regular.04341d21.woff) format("woff"),
+        url(../public/pt-serif-v12-latin-regular.751bb457.ttf)
+            format("truetype");
 }
 
 * {
@@ -13,7 +14,7 @@
 html {
     font-size: 62.5%;
     body {
-        background: url(/public/violet.jpg);
+        background: url(../public/violet.jpg);
         background-attachment: fixed;
         div {
             background: inherit;
