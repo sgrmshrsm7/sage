@@ -1,0 +1,28 @@
+{
+    "footer": [
+        {
+            "url": "https://github.com/sgrmshrsm7",
+            "icon": "FaGithub"
+        },
+        {
+            "url": "mailto:sgrmshrsm7@gmail.com",
+            "icon": "GoMail"
+        },
+        {
+            "url": "https://t.me/sgrmshrsm7",
+            "icon": "FaTelegramPlane"
+        },
+        {
+            "url": "https://www.facebook.com/sgrmshrsm7",
+            "icon": "FaFacebook"
+        },
+        {
+            "url": "https://www.instagram.com/sgrmshrsm7",
+            "icon": "FaInstagram"
+        },
+        {
+            "url": "https://twitter.com/sgrmshrsm7",
+            "icon": "FaTwitter"
+        }
+    ]
+}
