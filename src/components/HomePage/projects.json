@@ -1,0 +1,40 @@
+{
+    "projects": [
+        {
+            "name": "VChat",
+            "description": "A group chat Java WebApp using JSP, Java Servlets, AJAX, JQuery and MySQL."
+        },
+        {
+            "name": "Big Int",
+            "description": "Basic operations like addition, subtraction and multiplication on 1024bit numbers."
+        },
+        {
+            "name": "Heap Management",
+            "description": "Heap Management using best fit strategy for allocation of memory."
+        },
+        {
+            "name": "Set Implementation",
+            "description": "Set DS using hash table implementing union, intersection, difference, etc."
+        },
+        {
+            "name": "Vivago",
+            "description": "A hotel booking website using HTML, CSS, JS, PHP, SQL."
+        },
+        {
+            "name": "Graph",
+            "description": "Graph data structure: BFS, DFS, Topo. sort, Dijkstra's SP, Prim's MST, etc."
+        },
+        {
+            "name": "4 in a row",
+            "description": "Simple GUI 4 in a row game using Tkinter."
+        },
+        {
+            "name": "jscalc",
+            "description": "Just a basic js calculator."
+        },
+        {
+            "name": "Tic-Tac-Toe",
+            "description": "Simple GUI Tic-Tac-Toe game using Tkinter."
+        }
+    ]
+}
